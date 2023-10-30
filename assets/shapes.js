@@ -18,7 +18,7 @@ class Shape {
     }
   
     render(text) {
-      return `<text x="150" y="115" fill="${this.color}" font-size="30" font-family="Arial">${text}</text>`;
+      return `<text x="100" y="150" fill="${this.color}" font-size="30" font-family="Arial">${text}</text>`;
     }
   }
   
