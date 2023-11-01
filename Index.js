@@ -34,7 +34,6 @@ const questions = [
     },
 ];
 
-//Function to write the SVG file
 // Function to write the SVG file
 function writeToFile(fileName, data) {
     const shape = data.shape;
